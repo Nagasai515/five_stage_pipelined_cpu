@@ -1,0 +1,14 @@
+# Vivado generated files
+*.jou
+*.log
+*.wdb
+*.wcfg
+
+.Xil/
+*.cache/
+*.runs/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
