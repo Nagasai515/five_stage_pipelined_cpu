@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: G.Naga Sai Krishna
 // 
 // Create Date: 23.02.2026 16:00:32
 // Design Name: 
 // Module Name: main_decoder
-// Project Name: 
+// Project Name: five_stage_pipelined_cpu
 // Target Devices: 
 // Tool Versions: 
 // Description: 

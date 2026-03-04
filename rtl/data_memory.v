@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: G.Naga Sai Krishna
 // 
 // Create Date: 23.02.2026 16:22:39
 // Design Name: 
 // Module Name: data_memory
-// Project Name: 
+// Project Name: five_stage_pipelined_cpu
 // Target Devices: 
 // Tool Versions: 
 // Description: 

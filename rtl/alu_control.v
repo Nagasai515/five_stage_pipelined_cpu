@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: G.Naga Sai Krishna
 // 
 // Create Date: 23.02.2026 16:04:07
 // Design Name: 
 // Module Name: alu_control
-// Project Name: 
+// Project Name: five_stage_pipelined_cpu
 // Target Devices: 
 // Tool Versions: 
 // Description: 

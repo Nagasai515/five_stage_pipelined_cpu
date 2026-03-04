@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: G.Naga Sai Krishna
 // 
 // Create Date: 25.02.2026 15:33:09
 // Design Name: 
 // Module Name: hazard_unit
-// Project Name: 
+// Project Name: five_stage_pipelined_cpu
 // Target Devices: 
 // Tool Versions: 
 // Description: 

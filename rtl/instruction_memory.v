@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: G.Naga Sai Krishna
 // 
 // Create Date: 23.02.2026 15:19:51
 // Design Name: 
 // Module Name: instruction_memory
-// Project Name: 
+// Project Name: five_stage_pipelined_cpu
 // Target Devices: 
 // Tool Versions: 
 // Description: 
@@ -24,7 +24,7 @@ module instruction_memory (
     output wire [31:0] instruction
 );
 
-    // 256 words × 32-bit = 1 KB instruction memory
+    // 256 words Ã— 32-bit = 1 KB instruction memory
     reg [31:0] mem [0:255];
     integer i;
 
